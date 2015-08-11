@@ -1,0 +1,13 @@
+#this is for basic introduction to python 
+
+# List:- this is array type structure like in other programming languages in python. Array is building block
+# It is defined wiht square brackets []
+l=[]        c
+type(l)     #it show type of l, it return "<class 'list'>"
+
+#list is mutable type and we can modify it as our requirement
+
+#Tuple:-tuple is same as list, there is one difference that tuple is non-mutable.
+
+k=()       #it create empty tuple and assign to valiable k
+type(k)    #it show type of k, it return "<class 'tuple'>"
